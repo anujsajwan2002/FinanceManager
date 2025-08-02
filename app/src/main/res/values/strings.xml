@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FinanceManager</string>
+
+    <string-array name="bill_categories">
+        <item>Utilities</item>
+        <item>Rent</item>
+        <item>Subscriptions</item>
+        <item>Insurance</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="expense_categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
